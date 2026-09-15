@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Riddhika Guttikonda
 
-<!--
-**Riddhikaguttikonda/Riddhikaguttikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Java
+- Python
+- C
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### 📌 Projects
+- ATM Management System
+- Student Management System
+- E-Commerce Website
+- Contact Management System
+- Library Management System
+
+### 🌱 Currently Learning
+- Advanced Java
+- Web Development
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/riddhika-guttikonda-759648361?utm_source=share_via&utm_content=profile&utm_medium=member_android
